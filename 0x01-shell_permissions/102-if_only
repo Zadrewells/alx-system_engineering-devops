@@ -1,2 +1,3 @@
 #!/bin/bash
 chown --from=guillaure betty hello
+chown --from-guillaure betty hello
